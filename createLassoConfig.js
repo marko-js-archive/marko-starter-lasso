@@ -68,8 +68,8 @@ module.exports = (project, userProvidedLassoConfig) => {
     _chooseNotNull(
       lassoConfig.plugins,
       [
-        'lasso-marko',
-        'lasso-less'
+        require('lasso-marko'),
+        require('lasso-less')
       ]);
 
   return lassoConfig;

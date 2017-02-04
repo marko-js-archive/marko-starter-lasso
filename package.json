@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "lasso": "^2.10.4",
-    "lasso-less": "^2.4.3"
+    "lasso-less": "^2.4.3",
+    "lasso-marko": "^2.2.2"
   }
 }
