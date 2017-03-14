@@ -1,3 +1,5 @@
+'use strict';
+
 function _chooseNotNull () {
   for (let i = 0; i < arguments.length; i++) {
     var value = arguments[i];

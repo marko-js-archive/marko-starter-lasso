@@ -1,3 +1,5 @@
+'use strict';
+
 const _createLassoConfig = require('./createLassoConfig');
 
 exports.name = 'lasso';
