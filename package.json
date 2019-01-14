@@ -11,9 +11,9 @@
     "eslint-config-marko": "^1.0.1"
   },
   "dependencies": {
-    "@lasso/marko-taglib": "^1.0.6",
-    "lasso": "^3.1.2",
-    "lasso-less": "^2.4.3",
-    "lasso-marko": "^2.2.2"
+    "@lasso/marko-taglib": "^1.0.13",
+    "lasso": "^3.2.9",
+    "lasso-less": "^3.0.1",
+    "lasso-marko": "^2.4.6"
   }
 }
