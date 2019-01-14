@@ -1,6 +1,6 @@
 {
   "name": "marko-starter-lasso",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "marko-starter plugin that configures Babel",
   "main": "index.js",
   "repository": {},
